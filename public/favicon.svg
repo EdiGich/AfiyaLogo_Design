@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="cross" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="0.45" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#cross)" d="M26 6h12c2.2 0 4 1.8 4 4v12h12c2.2 0 4 1.8 4 4v12c0 2.2-1.8 4-4 4H42v12c0 2.2-1.8 4-4 4H26c-2.2 0-4-1.8-4-4V42H10c-2.2 0-4-1.8-4-4V26c0-2.2 1.8-4 4-4h12V10c0-2.2 1.8-4 4-4z"/>
+  <path stroke="#fff" stroke-width="3.2" stroke-linecap="round" fill="none" d="M28 22c0 6 4 10 8 12"/>
+  <circle cx="42" cy="44" r="5" fill="#fff"/>
+  <circle cx="42" cy="44" r="2.2" fill="#3B82F6"/>
+</svg>
